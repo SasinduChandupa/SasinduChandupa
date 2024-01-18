@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sasindu Chandupa
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning c, java and java script
-- 📫 How to reach me @chandupa89188
+- 📫 How to reach me scaj12345@gmail.com
 - ⚡ Fun fact: Call me as Sasii
 
 <!---
