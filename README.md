@@ -1,6 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Sasindu Chandupa</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" src="https://medium.com/@ricardojeanpierre/ux-concepts-that-ever-developer-should-know-ba5243b6322f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasindu02&label=Profile%20views&color=0e75b6&style=flat" alt="sasindu02" /> </p>
 
