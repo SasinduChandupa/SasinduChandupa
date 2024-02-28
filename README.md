@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Sasindu Chandupa
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning c, java and java script
-- 📫 How to reach me scaj12345@gmail.com
-- ⚡ Fun fact: Call me as Sasii
-
 # <h1 align="center">Hi 👋, I'm Sasindu Chandupa</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://medium.com/@ricardojeanpierre/ux-concepts-that-ever-developer-should-know-ba5243b6322f">
@@ -14,9 +8,14 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
+- 👀 I’m interested in Programming
+
 - 💬 Ask me about **HTML, JAVA, C, DBMS**
 
 - 📫 How to reach me **scaj12345@gmail.com**
+
+- ⚡ Fun fact: Call me as Sasii
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
