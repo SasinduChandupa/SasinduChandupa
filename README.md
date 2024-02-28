@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/chandupa02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandupa02" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chandupa-jayawardana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandupa jayawardana" height="30" width="40" /></a>
-<a href="https://fb.com/sasindu chandupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sasindu chandupa" height="30" width="40" /></a>
-<a href="https://instagram.com/chandupa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandupa._" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sasindu.chandupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sasindu chandupa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chandupa._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandupa._" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chandupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chandupa" height="30" width="40" /></a>
 </p>
 
