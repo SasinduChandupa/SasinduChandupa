@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sasindu Chandupa</h1>
-<h3 align="center">A passionate Front-end Web Developer from Sri Lanka</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasindu02&label=Profile%20views&color=0e75b6&style=flat" alt="sasindu02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasinduchandupa&label=Profile%20views&color=0e75b6&style=flat" alt="sasinduchandupa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasindu02" alt="SasinduChandupa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasinduchandupa" alt="sasinduchandupa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chandupa02" target="blank"><img src="https://img.shields.io/twitter/follow/chandupa02?logo=twitter&style=for-the-badge" alt="chandupa02" /></a> </p>
 
@@ -28,6 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sasindu_Chandupa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sasindu_Chandupa" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasindu02&show_icons=true&locale=en&layout=compact" alt="sasindu02" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasinduchandupa&show_icons=true&locale=en&layout=compact" alt="sasinduchandupa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasindu02&" alt="sasindu02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasinduchandupa&" alt="sasinduchandupa" /></p>
