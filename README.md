@@ -15,8 +15,8 @@
   
 - 🖥️ Check my portfolio **https://sasinduchandupajayawardana.atwebpages.com/index.php**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/chandupa02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandupa02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandupa jayawardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandupa jayawardana" height="30" width="40" /></a>
 <a href="https://fb.com/sasindu chandupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sasindu chandupa" height="30" width="40" /></a>
