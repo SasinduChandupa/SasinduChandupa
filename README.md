@@ -1,12 +1,5 @@
 <h1 align="center">Hi...👋 <br> I'm Sasindu Chandupa</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; 
-                          background: linear-gradient(90deg, #ff7e5f, #feb47b);
-                          -webkit-background-clip: text; 
-                          color: transparent; 
-                          text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
-                          margin-bottom: 20px;">
-    A passionate frontend developer from Sri Lanka
-</h3>
+<h3 align="center"><b>A passionate frontend developer from Sri Lanka</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasinduchandupa&label=Profile%20views&color=0e75b6&style=flat" alt="sasinduchandupa" /> </p>
 
