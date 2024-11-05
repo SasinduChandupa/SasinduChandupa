@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **scaj12345@gmail.com**
   
-- 🖥️ Check my portfolio **https://sasinduchandupajayawardana.atwebpages.com/index.php**
+- 🖥️ Check my portfolio **https://sasinduchandupa.github.io/SasinduChandupaJayawardana/**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
